@@ -22,11 +22,11 @@ Git
 # Acknowledgements
 This project uses the following open-source libraries:
 
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
-TensorFlow / PyTorch (for deep learning models)
+Scikit-Learn,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+TensorFlow / PyTorch (for deep learning models).
 
 Thank you for checking out my project!
